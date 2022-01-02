@@ -1,2 +1,3 @@
 # RA_work2
-For project 'Sell and go home'
+ RA work with Professor Ran Duchin and Professor Denis Sosyura
+ Project 'Sell and go home'
